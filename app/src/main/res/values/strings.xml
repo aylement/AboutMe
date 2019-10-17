@@ -1,3 +1,13 @@
+
 <resources>
-    <string name="app_name">AboutMe</string>
+    <string name="app_name">About Me</string>
+    <string name="name">Aymeric</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">My name is Aymeric and this is an app I am making for the second part of my Android course by Udemy.
+    \n\ thank you for reading this
+    \n\ I appreciate doing this part as I  only know the basics of design,  and Define
+    \n\ tely need some help about it.
+    \n\ Thanks for reading</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+
 </resources>
